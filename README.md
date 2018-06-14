@@ -1,2 +1,11 @@
-# Lab05_Build_A_Zoo
+# Lab05 Build A Zoo
 Build a zoo using OOP Principles
+
+
+## Concepts Implemented
+
+
+---
+
+## Diagram
+![Build a Zoo](/zoo.png)
