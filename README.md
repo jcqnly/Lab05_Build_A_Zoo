@@ -58,7 +58,7 @@ concrete animals: **Bear**, **Bat**, **Dog**, **Cat**, **Falcon**, **Sharks**
 
 2 virtual methods: **Appearance()**, **DoesntLaysEggs**
 
-2 virtual properties: **bool fur**, **bool Vertebbrae
+2 virtual properties: **bool fur**, **bool Vertebbrae**
 
 ---
 
