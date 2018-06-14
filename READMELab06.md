@@ -3,8 +3,16 @@ This exercise implements the concepts of Interfaces using a zoo as the running t
 
 ---
 ## Concepts Implemented
-Interfaces are like contracts.  They allow classes to behave a certain way instead
-of inheriting their behaviours based on a hierarchical class inheritance.
+Interfaces are like abstract classes in that they have behaviours that classes can implement.  
+They allow classes to behave a certain way instead of having a class inherit these behaviours 
+based on a hierarchical class inheritance.
+
+---
+
+## Interfaces Used
+The interfaces used in this exercise is ISwim and IFly.
+ISwim is applied to the abstract Fish class while
+IFry is applied to the abstract Bird class.
 
 ---
 
