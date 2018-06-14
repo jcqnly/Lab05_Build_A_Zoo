@@ -9,6 +9,13 @@ based on a hierarchical class inheritance.
 
 ---
 
+## Interfaces Used
+The interfaces used in this exercise is ISwim and IFly.
+ISwim is applied to the abstract Fish class while
+IFry is applied to the abstract Bird class.
+
+---
+
 ## Dependencies
 This exercise runs on .NET Core 2.1, which can be downloaded [here](https://www.microsoft.com/net/download/macos).
 
